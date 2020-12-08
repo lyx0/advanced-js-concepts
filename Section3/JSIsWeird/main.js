@@ -1,3 +1,5 @@
+// works against this
+'use strict'
 function weird() {
   height = 50;
   // global leakage
@@ -7,3 +9,16 @@ function weird() {
 }
 
 weird()
+
+// -------------------
+
+
+var heyhey = function doodle() {
+
+  // doodle only accessible here, not on global scope
+  doodle()
+  console.log('heyhey')
+}
+
+heyhey()
+doodle()
