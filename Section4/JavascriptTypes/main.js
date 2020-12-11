@@ -1,4 +1,4 @@
-
+// Primitive Types
 // number
 typeof 5
 
@@ -9,9 +9,11 @@ typeof true
 typeof 'To be or not to be'
 
 // undefined
+// absence of definition
 typeof undefined
 
 // !!! Object
+// asbence of value, no value there.
 typeof null 
 
 // symbol
@@ -19,5 +21,22 @@ typeof null
 // object so that the object value is unique
 typeof Symbol('just me')
 
-// function
+
+// Non primitive Types
+// object
 typeof {}
+
+// object
+typeof []
+
+// function
+typeof function(){}
+
+// Arrays and functions are objects
+
+function a() {
+  return 5
+}
+
+a.hi = 'hihihihihihi'
+console.log(a.hi)
