@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section7/ExerciseAmazon/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/FunctionalProgrammingIntroduction/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/PureFunctions/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/CanEverythingBePure/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/Idempotence/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/PureFunctions2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section7/PureFunctions/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section7/PureFunctions/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607793327749</updated>
       <workItem from="1607793328837" duration="8214000" />
+      <workItem from="1607801938891" duration="3344000" />
     </task>
     <servers />
   </component>
@@ -49,13 +50,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1186" y="149" key="#JavaScript" timestamp="1607794371875">
+    <state x="1186" y="149" key="#JavaScript" timestamp="1607802442533">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="1186" y="149" key="#JavaScript/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1607802442533" />
     <state x="1186" y="149" key="#JavaScript/0.0.1920.1050@0.0.1920.1050" timestamp="1607794371875" />
     <state x="1090" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607798607156">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1090" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1607798607156" />
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1607803039639">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1607803039639" />
   </component>
 </project>
