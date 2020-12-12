@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section6/ExerciseOOPandPolymorphism/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/Inheritance/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/Inheritance2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/PillarsOfOOP/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section6/PublicVsPrivate/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/ExerciseAmazon/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/FunctionalProgrammingIntroduction/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/PureFunctions/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607793327749</updated>
-      <workItem from="1607793328837" duration="5895000" />
+      <workItem from="1607793328837" duration="8214000" />
     </task>
     <servers />
   </component>
