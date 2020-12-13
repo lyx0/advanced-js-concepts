@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section7/Arity/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/ComposeAndPipe/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/Currying/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/HigherOrderFunctionsAndClosures/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/Immutability/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/IsFPTheAnswerToEverything/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/Memoization/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/Memoization2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/PartialApplication/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section7/ReviewingFP/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section8/CompositionVsInheritance/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section8/CompositionVsInheritance/Composition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section8/OOPVsFP/Composition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section8/OOPVsFP/Inheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section9/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section7/ExerciseAmazon/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section7/ExerciseAmazon/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section7/ImperativeVsDeclerative/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section7/ImperativeVsDeclerative/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section8/CompositionVsInheritance/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section8/CompositionVsInheritance/Inheritance.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +30,17 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section8/OOPVsFP" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section8\OOPVsFP" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section8\OOPVsFP" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +54,7 @@
       <workItem from="1607801938891" duration="3344000" />
       <workItem from="1607857405484" duration="661000" />
       <workItem from="1607858189294" duration="62000" />
-      <workItem from="1607858302812" duration="11622000" />
+      <workItem from="1607858302812" duration="15103000" />
     </task>
     <servers />
   </component>
