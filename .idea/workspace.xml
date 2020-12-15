@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section9/HowJavascriptWorks/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/CommonJSAMDUMD/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/CommonJSAMDUMD/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ES6Modules/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ES6Modules/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ModulePatterns/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ModulePatterns/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ModulePatternsProAndCons/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/ModulePatternsProAndCons/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/WhatIsAModule/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section10/WhatIsAModule/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/AsyncErrorHandling/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/AsyncErrorHandling2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/ErrorExercise/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/ErrorsInJavascript/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/ExtendingErrors/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section11/TryCatch/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,13 +42,18 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section8/OOPVsFP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section11/AsyncErrorHandling2" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section8\OOPVsFP" />
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section11\AsyncErrorHandling2" />
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section10\ES6Modules" />
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section10\CommonJSAMDUMD" />
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section10\ModulePatternsProAndCons" />
+      <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section10\ModulePatterns" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lyx0\Documents\GitHub\advanced-js-concepts\Section8\OOPVsFP" />
@@ -50,7 +71,9 @@
       <workItem from="1607801938891" duration="3344000" />
       <workItem from="1607857405484" duration="661000" />
       <workItem from="1607858189294" duration="62000" />
-      <workItem from="1607858302812" duration="16191000" />
+      <workItem from="1607858302812" duration="16279000" />
+      <workItem from="1608046832608" duration="575000" />
+      <workItem from="1608047424087" duration="7968000" />
     </task>
     <servers />
   </component>
