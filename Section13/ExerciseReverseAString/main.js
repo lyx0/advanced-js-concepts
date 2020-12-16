@@ -13,5 +13,14 @@ function reverseString2(str) {
   return newString
 }
 
+function reverse2(str) {
+  return str.split('').reverse().join('')
+}
+
+const reverse3 = str => [...str].reverse().join('');
+
+
 console.log(reverse('Henlo my name is lyx0'));
+console.log(reverse2('Henlo my name is lyx0'));
+console.log(reverse3('Henlo my name is lyx0'));
 console.log(reverseString2('Henlo my name is lyx0'));

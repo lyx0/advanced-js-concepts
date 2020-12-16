@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section13/ArrayIntroduction/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/DataStructuresInDifferentLanguages/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/ExerciseReverseAString/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/HowComputersStoreData/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/ImplementingAnArray/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/OperationsOnDataStructures/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/StaticVsDynamicArrays/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/WhatIsADataStructure/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/ExerciseImplementAHashTable/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/ExerciseMergeSortedArrays/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/HashCollisions/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/HashFunction/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/HashTablesInDifferentLanguages/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/HashTablesIntroduction/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section13/ExerciseReverseAString/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section13/ExerciseReverseAString/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +64,9 @@
       <workItem from="1607858302812" duration="16279000" />
       <workItem from="1608046832608" duration="575000" />
       <workItem from="1608047424087" duration="16370000" />
+      <workItem from="1608066698732" duration="5000" />
+      <workItem from="1608067123366" duration="227000" />
+      <workItem from="1608067362407" duration="7316000" />
     </task>
     <servers />
   </component>
