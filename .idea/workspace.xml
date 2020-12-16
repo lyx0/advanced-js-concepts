@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87c310c-4e2a-457a-a882-74771b308b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section13/ExerciseImplementAHashTable/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/ExerciseMergeSortedArrays/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/HashCollisions/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/HashFunction/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/HashTablesInDifferentLanguages/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section13/HashTablesIntroduction/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/ExerciseFirstRecurringCharacter/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section13/HashTablesVsArrays/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section13/ExerciseReverseAString/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section13/ExerciseReverseAString/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section13/Keys/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Section13/Keys/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +63,7 @@
       <workItem from="1608066698732" duration="5000" />
       <workItem from="1608067123366" duration="227000" />
       <workItem from="1608067362407" duration="7316000" />
+      <workItem from="1608088573163" duration="4479000" />
     </task>
     <servers />
   </component>
